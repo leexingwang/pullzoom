@@ -1,4 +1,7 @@
 # PullToZoomInListView
+
+# 本项目是在https://github.com/matrixxun/PullToZoomInListView项目基础上修改的
+
 A Android custom ListView with pull to zoom-in and parallax effect header like Path App.<br>
 <br>
 ![](https://github.com/matrixxun/PullToZoomInListView/raw/master/art/demo.gif)
